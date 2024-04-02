@@ -1,1 +1,4 @@
-class AppTexts { AppTexts._(); }
+class AppTexts {
+  AppTexts._();
+  static const String appBarTitle = 'Products';
+}
